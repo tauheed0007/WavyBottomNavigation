@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wavy Bottom Navigation</string>
+
+    <string name="main_page_selected">%s page is selected</string>
+</resources>
