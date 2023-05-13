@@ -1,9 +1,7 @@
 WavyBottomNavigation 🌊🎯💯
 Welcome to the WavyBottomNavigation 🎉, an exquisite, customizable Android library that transfigures your bottom navigation bar into a wavy ocean of fluid navigation! 🎯💫 It's lightweight, compatible with Kotlin and Java 📚, and trusted by thousands of developers across the globe 🌍 to create a unique, eye-catching user experience 😍.
 
-
-https://github.com/tauheed0007/WavyBottomNavigation/assets/92750415/2d8c57d5-a150-4801-ba78-40485eb13971
-
+https://github.com/tauheed0007/WavyBottomNavigation/assets/92750415/96c503c7-4813-442c-86a9-d36001a51508
 
 Get ready to surf the waves of smooth, wavy animations 🏄‍♀️. Choose from an array of wave shapes, colors, and dynamic animations to create a bespoke, captivating design for your app. 🎨🌈
 
